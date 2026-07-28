@@ -11,7 +11,3 @@ payment feature Verified
 payment feature Completed
 
 This my practical project
-
-Hi am Selvamani
-B.E Computer Science and Engineering
-CSI college of Engineering
